@@ -1,4 +1,4 @@
-package com.TJ7.ecommerce.multivendor.model;
+package com.TJ7.ecommerce.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

@@ -1,4 +1,4 @@
-package com.TJ7.ecommerce.multivendor;
+package com.TJ7.ecommerce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

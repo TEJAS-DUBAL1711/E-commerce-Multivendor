@@ -1,7 +1,7 @@
-package com.TJ7.ecommerce.multivendor.controller;
+package com.TJ7.ecommerce.controller;
 
 
-import com.TJ7.ecommerce.multivendor.response.ApiResponse;
+import com.TJ7.ecommerce.response.ApiResponse;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

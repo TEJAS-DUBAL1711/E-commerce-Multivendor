@@ -1,4 +1,4 @@
-package com.TJ7.ecommerce.multivendor.response;
+package com.TJ7.ecommerce.response;
 
 import lombok.Data;
 
